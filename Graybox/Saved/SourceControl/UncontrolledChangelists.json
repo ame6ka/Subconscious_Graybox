@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/TravkoVodIK/Documents/Unreal Projects/Subconscious_Graybox/Graybox/Content/Loc_8.umap",
+				"C:/Users/TravkoVodIK/Documents/Unreal Projects/Subconscious_Graybox/Graybox/Content/CustomAssets/GrayBox/baner.uasset",
+				"C:/Users/TravkoVodIK/Documents/Unreal Projects/Subconscious_Graybox/Graybox/Content/_GENERATED/TravkoVodIK/NewInstancedStaticMeshFoliage.uasset"
+			]
+		}
+	]
+}
